@@ -88,6 +88,57 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zhonghui3/zhonghui3/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<details>
+<summary>📝 How to enable the snake animation?</summary>
+<br>
+
+The snake animation runs via GitHub Actions and updates daily. To set it up:
+1. Create a new branch named `output` in this repository
+2. Add this workflow to `.github/workflows/snake.yml`:
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: zhonghui3
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+3. Run the workflow manually once to generate the first snake animation
+</details>
+
+---
+
+### 📊 3D Contribution Wall
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=zhonghui3&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="3D Contribution Wall" />
+</div>
+
+---
+
 ### 📂 Featured Projects
 
 <div align="center">
