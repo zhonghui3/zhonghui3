@@ -64,6 +64,8 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Kendryte K230](https://img.shields.io/badge/K230-6D4C41?style=for-the-badge&logo=microchip&logoColor=white)
+![Rockchip](https://img.shields.io/badge/Rockchip-FF6C37?style=for-the-badge&logo=rockchip&logoColor=white)
 
 </div>
 
