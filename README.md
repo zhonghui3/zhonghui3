@@ -1,65 +1,131 @@
-# Hi, I'm Zhonghui 👋
+<div align="center">
+  
+<!-- 动态波浪头部 -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Zhonghui%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20AI%20Engineer%20%7C%20%E5%B5%8C%E5%85%A5%E5%BC%8FAI%E5%B7%A5%E7%A8%8B%E5%B8%88&descSize=18&descAlignY=55)
 
-<p align="center">
-  <em>Embedded AI Engineer | 嵌入式AI工程师 | 菜鸟</em>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhonghui3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<!-- 个人介绍打字效果 -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Focusing+on+embedded+systems+%26+AI;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhonghui3&label=Profile%20views&color=2196F3&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zhonghui3?style=for-the-badge&color=2196F3" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/zhonghui3?style=for-the-badge&color=2196F3" alt="Stars" />
+</div>
+
+<br>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhonghui3&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhonghui3&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top languages" />
-</p>
+<div align="left">
+  <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhonghui3&theme=dark&bg_color=0d1117&hide_border=true&layout=compact&custom_title=My%20Week&v=2" alt="Wakatime stats" />
+  
+  👨‍💻 I'm an Embedded AI Engineer passionate about building intelligent edge devices.
+  
+  🎯 Currently focusing on:
+  - Embedded systems development (C/C++, Linux, RTOS)
+  - UI development with Qt and LVGL
+  - AI model deployment on edge devices
+  - Low-power IoT system design
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhonghui3&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
-</p>
+  📚 Always learning and exploring new technologies in the embedded AI field.
+</div>
+
+<br clear="right">
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/LVGL-29B6F6?style=for-the-badge&logo=lvgl&logoColor=white" alt="LVGL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/RTOS-00ADD8?style=for-the-badge&logo=freebsd&logoColor=white" alt="RTOS" />
-  <img src="https://img.shields.io/badge/Embedded-000000?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Embedded" />
-</p>
+<div align="center">
+
+**Languages**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Tools**  
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![LVGL](https://img.shields.io/badge/LVGL-29B6F6?style=for-the-badge&logo=lvgl&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00ADD8?style=for-the-badge&logo=freebsd&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Hardware Platforms**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhonghui3&show_icons=true&theme=algolia&bg_color=0d1117&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhonghui3&layout=compact&theme=algolia&bg_color=0d1117&hide_border=true&hide=html,css,javascript" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhonghui3&theme=algolia&background=0d1117&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Profile Details" />
+</div>
 
 ---
 
 ### 📂 Featured Projects
 
-<p align="center">
-  <!-- 添加你的项目卡片在这里，示例：
+<div align="center">
+  <p>🌟 My open source projects are coming soon... 🌟</p>
+  
+  <!--
   <a href="https://github.com/zhonghui3/your-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhonghui3&repo=your-project&theme=dark&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhonghui3&repo=your-project&theme=algolia&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/zhonghui3/your-project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhonghui3&repo=your-project2&theme=algolia&bg_color=0d1117&hide_border=true" />
   </a>
   -->
-  <em>Project showcase coming soon...</em>
-</p>
+</div>
 
 ---
 
-### 📫 Get in Touch
+### 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="mailto:kevinzz251216@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <!-- Add more social links here when you have them
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://your-blog.com">
+    <img src="https://img.shields.io/badge/Blog-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Blog" />
+  </a>
+  -->
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
-</p>
+<!-- 底部波浪 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
+
+<!-- 随机开发笑话
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
+-->
