@@ -174,9 +174,16 @@ jobs:
 
 ---
 
-<!-- 底部波浪 -->
+### 👋 Thanks for Visiting!
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=End%20of%20Profile&fontSize=20&fontColor=ffffff&fontAlignY=65" />
+</div>
+
+<!-- 分隔线，明确标识自定义内容结束 -->
+<div align="center">
+  <sub>✨ Custom profile content ends here • Below are GitHub default sections ✨</sub>
+  <br><br><br>
 </div>
 
 <!-- 随机开发笑话
