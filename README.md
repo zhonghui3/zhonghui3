@@ -8,14 +8,16 @@
 <!-- 个人介绍打字效果 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Focusing+on+embedded+systems+%26+AI;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=380&lines=Welcome+to+my+GitHub+Profile!;Focusing+on+Embedded+Systems+%26+AI;Always+learning+new+things+%F0%9F%92%AA" alt="Typing SVG" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhonghui3&label=Profile%20views&color=2196F3&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zhonghui3?style=for-the-badge&color=2196F3" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/zhonghui3?style=for-the-badge&color=2196F3" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=zhonghui3&label=Profile%20Views&color=58A6FF&style=flat-square&logo=github" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zhonghui3?label=Followers&color=58A6FF&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/zhonghui3?label=Stars&color=58A6FF&style=flat-square&logo=github" alt="Stars" />
 </div>
 
 <br>
@@ -43,46 +45,39 @@
 
 <div align="center">
 
-**Languages**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash&perline=10" alt="Languages" />
 
-**Frameworks & Tools**  
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![LVGL](https://img.shields.io/badge/LVGL-29B6F6?style=for-the-badge&logo=lvgl&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00ADD8?style=for-the-badge&logo=freebsd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Frameworks & Tools -->
+<img src="https://skillicons.dev/icons?i=qt,linux,docker,git,cmake&perline=10" alt="Tools" />
 
-**Hardware Platforms**  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Kendryte K230](https://img.shields.io/badge/K230-6D4C41?style=for-the-badge&logo=microchip&logoColor=white)
-![Rockchip](https://img.shields.io/badge/Rockchip-FF6C37?style=for-the-badge&logo=rockchip&logoColor=white)
+<!-- Hardware Platforms -->
+<br><br>
+
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![K230](https://img.shields.io/badge/-K230-6D4C41?style=flat-square&logo=microchip&logoColor=white)
+![Rockchip](https://img.shields.io/badge/-Rockchip-FF6C37?style=flat-square&logo=rockchip&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-<!-- 使用 GitHub Profile Summary Cards 替代不稳定的 github-readme-stats -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Repos Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhonghui3&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Productive Time" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhonghui3&theme=tokyonight" alt="Stats" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhonghui3&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhonghui3&theme=algolia&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhonghui3&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
@@ -90,51 +85,19 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zhonghui3/zhonghui3/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhonghui3/zhonghui3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhonghui3/zhonghui3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhonghui3/zhonghui3/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
-
-<details>
-<summary>📝 How to enable the snake animation?</summary>
-<br>
-
-The snake animation runs via GitHub Actions and updates daily. To set it up:
-1. Create a new branch named `output` in this repository
-2. Add this workflow to `.github/workflows/snake.yml`:
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: zhonghui3
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-3. Run the workflow manually once to generate the first snake animation
-</details>
 
 ---
 
-<!-- 3D Contribution Wall 服务已下线/付费，使用 GitHub Activity Graph 替代 -->
-### 📊 Activity Graph
+### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhonghui3&bg_color=0d1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhonghui3&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
