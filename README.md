@@ -131,10 +131,11 @@ jobs:
 
 ---
 
-### 📊 3D Contribution Wall
+<!-- 3D Contribution Wall 服务已下线/付费，使用 GitHub Activity Graph 替代 -->
+### 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=zhonghui3&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="3D Contribution Wall" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhonghui3&bg_color=0d1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
