@@ -25,10 +25,9 @@
 ### 🚀 About Me
 
 <div align="left">
-  <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhonghui3&theme=dark&bg_color=0d1117&hide_border=true&layout=compact&custom_title=My%20Week&v=2" alt="Wakatime stats" />
-  
+
   👨‍💻 I'm an Embedded AI Engineer passionate about building intelligent edge devices.
-  
+
   🎯 Currently focusing on:
   - Embedded systems development (C/C++, Linux, RTOS)
   - UI development with Qt and LVGL
@@ -37,8 +36,6 @@
 
   📚 Always learning and exploring new technologies in the embedded AI field.
 </div>
-
-<br clear="right">
 
 ---
 
