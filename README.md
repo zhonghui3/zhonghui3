@@ -70,17 +70,19 @@
 
 ### 📊 GitHub Analytics
 
+<!-- 使用 GitHub Profile Summary Cards 替代不稳定的 github-readme-stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhonghui3&show_icons=true&theme=algolia&bg_color=0d1117&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhonghui3&layout=compact&theme=algolia&bg_color=0d1117&hide_border=true&hide=html,css,javascript" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Repos Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Productive Time" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhonghui3&theme=algolia&background=0d1117&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhonghui3&theme=algolia&bg_color=0d1117&hide_border=true" alt="Profile Details" />
 </div>
 
 ---
