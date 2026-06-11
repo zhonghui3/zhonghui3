@@ -45,21 +45,26 @@
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash&perline=10" alt="Languages" />
+**Languages**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Frameworks & Tools -->
-<img src="https://skillicons.dev/icons?i=qt,linux,docker,git,cmake&perline=10" alt="Tools" />
+**Frameworks & Tools**  
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![LVGL](https://img.shields.io/badge/LVGL-29B6F6?style=for-the-badge&logo=lvgl&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00ADD8?style=for-the-badge&logo=freebsd&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Hardware Platforms -->
-<br><br>
-
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![K230](https://img.shields.io/badge/-K230-6D4C41?style=flat-square&logo=microchip&logoColor=white)
-![Rockchip](https://img.shields.io/badge/-Rockchip-FF6C37?style=flat-square&logo=rockchip&logoColor=white)
+**Hardware Platforms**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![K230](https://img.shields.io/badge/K230-6D4C41?style=for-the-badge&logo=microchip&logoColor=white)
+![Rockchip](https://img.shields.io/badge/Rockchip-FF6C37?style=for-the-badge&logo=rockchip&logoColor=white)
 
 </div>
 
